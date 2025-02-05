@@ -115,4 +115,4 @@ This tutorial provides a step-by-step guide to configure the open-source help de
 
    <img src="https://i.imgur.com/Fs9fhuw.png" height="80%" width="80%" alt="Ticket Overview"/>
 
-<p align="right"> Next up, *INSERT* </p>
+<p align="right"> Next up, https://github.com/AlexisJ-Career/ticket-lifecycle </p>
